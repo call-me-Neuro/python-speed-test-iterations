@@ -1,7 +1,7 @@
 # python-speed-test-iterations
 Hi! I was solving one task and I did it using list iteration for i in range(len(list)) <br />
-I chose this way because I didn't know that I can iter list using for i in list <br />
-when i got it I found out this I decided to change my code (looks better) <br />
+I chose this way because I didn't know I can iter list using for i in list <br />
+when I found out this I decided to change my code (looks better) <br />
 but this tiny change made my code slower <br />
 and now I want to test this snake and find out what should i use to make my code faster <br />
 
